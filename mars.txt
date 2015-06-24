@@ -1,4 +1,4 @@
-git diff
+git
 forth change
 git status
 cold and try but enerything is my favorate color.
