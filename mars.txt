@@ -1,3 +1,4 @@
-take note
+git diff
+git status
 cold and try but enerything is my favorate color.
 The two moons may be a problem for wolfman.
